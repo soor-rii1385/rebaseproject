@@ -1,3 +1,4 @@
 GitHub Pull Request Demo
 Version 1.0
-This change was added via a Pull Request
+This change was added via a Pull Request.
+version 1.1
